@@ -1,0 +1,28 @@
+body {
+    display: block;
+    margin: 0;
+    background-color: #222222;
+}
+
+.bg-dark{
+    background-color: #222222;
+}
+.bg-white{
+    background-color: #fdfdfd;
+}
+
+.title{
+    color:#34E1FF;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
